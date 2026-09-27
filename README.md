@@ -1,16 +1,39 @@
-## Hi there 👋
+# 박주홍 | Automotive Development PM
 
-<!--
-**sabjak123-blip/sabjak123-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 시작개발 → 제품 설계 → 개발 PM으로 이어진 9년 차 자동차 부품 개발 엔지니어  
+> 일정·개발비·품질·리스크를 통합 관리하여 양산까지 이끄는 프로젝트 관리자
 
-Here are some ideas to get you started:
+📧 gallib@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+### 램프개발 PM | 자동차 램프 전문기업 | 2024.02 ~ 현재
+- 램프 개발 3개 차종 순차 수행 (2개 차종 국내 양산 이관 완료, 1개 차종 해외공장 이관 진행 중)
+- 개발일정·개발비·수익성·설계변경 관리, 설계/시험/생산/구매 부서 간 일정 조율
+- 해외공장 신규 모듈 배광 불만족 → **1~4차 합동배광 검증 주관**으로 배광 성능 확보
+- 점등 이미지 이슈 → **LDM 목업 Duty 조정 + 휘도 검증**으로 고객 사양 확정
+- 배광 성능 이슈 → 설계-실물 편차 분석 및 목업 검증으로 양산 일정 준수
+
+### 기계식 Valve 설계/개발 | 연료계 부품 기업 | 2020.04 ~ 2024.02
+- Fuel Pressure Regulator 6종 개발 (사양 협의, 설계, DV/PV 시험검증)
+- 압력구배 **0.26 → 0.21 kPa/LPH** 개선 (스프링·Case 형상·커링 공정 최적화)
+- 해외 생산법인 양산 불량 개선 (커링 두께·단면 형상 최적화)
+- 원가절감 테마 관리 3년 누적 **81.1백만원**
+
+### 금형/부품 시작개발 | 프레스·용접 부품 기업 | 2017.03 ~ 2020.03
+- 금형 Tool 수명 **1,200 → 20,000타** 개선 (소재·열처리·코팅 최적화)
+- 신규 양산 수주 기여 (23만대 / 15만대 / 80만대 추가)
+- 정부지원사업 주관 3건(2.1억원), 참여 4건(5.7억원)
+
+---
+
+## 🛠 Skills
+- **Project Management:** 일정·개발비 관리, 리스크·변경 관리, 다부서/해외법인 협업
+- **Engineering:** 제품 설계, DV/PV 시험검증, 배광·광학 이슈 대응, 금형/프레스
+- **Tools:** Creo, CATIA
+
+## 🎓 Education & Certificates
+- 대구가톨릭대학교 자동차공학과 졸업 (2017)
+- 품질관리담당자 (2017), 자동차정비기능사 (2013)
